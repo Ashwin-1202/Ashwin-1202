@@ -1,3 +1,9 @@
+👋 <b> Hi, I'm Ashwin </b>
+
+🎓 Engineering Student <br/>
+💻 Passionate about Software Development, Web Technologies <br/>
+🚀 Currently learning Full Stack Development<br/>
+
 ![user (2)](https://github.com/user-attachments/assets/bfd4312f-38af-49fc-af45-5f2c95bfb39e)
 
 <!--
