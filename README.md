@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e800de05-af22-4d39-a926-4d7aaa01fb14" />
+
 
 <!--
 **Ashwin-1202/Ashwin-1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
