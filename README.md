@@ -16,7 +16,6 @@ Problem Solver | Open to Internship Opportunities
 - 🎓 Engineering Student passionate about **Software Development**
 - 💻 Interested in **Web Development and AI-based applications**
 - 🚀 Currently learning **Full Stack Development**
-- 🔐 Exploring **Cybersecurity and Secure Systems**
 - 📈 Continuously improving my **coding and problem-solving skills**
 - 🎯 Looking for **internship opportunities to gain industry experience**
 
