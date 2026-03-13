@@ -6,7 +6,7 @@ Problem Solver | Open to Internship Opportunities
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bfd4312f-38af-49fc-af45-5f2c95bfb39e" width="400"/>
+  <img src="https://github.com/user-attachments/assets/209cce93-1e68-4464-affc-4fd7e31d0fe7" width="400"/>
 </p>
 
 ---
