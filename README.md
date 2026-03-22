@@ -64,9 +64,8 @@ https://ashwinv1202portfolio.netlify.app/
 
 ## 🤝 Connect With Me
 
-- 🌐 Portfolio: https://ashwinv1202portfolio.netlify.app/
 - 💼 LinkedIn: https://linkedin.com/in/ashwin-v-b386012b0
-- 🐙 GitHub: https://github.com/Ashwin-1202
+- 📧 E mail: ashwinv2023@gmail.com
 
 ---
 
