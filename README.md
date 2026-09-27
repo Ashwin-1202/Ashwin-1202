@@ -138,21 +138,11 @@ A cinematic React website inspired by *I Want to Eat Your Pancreas*, focusing on
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwin-1202&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1202&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashwin-1202&theme=tokyonight" width="90%"/>
+    
+<img src="./profile/top-langs.svg" width="49%" />
 
 </div>
 
@@ -181,16 +171,6 @@ A cinematic React website inspired by *I Want to Eat Your Pancreas*, focusing on
 </picture>
 
 </div>
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-1202&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
