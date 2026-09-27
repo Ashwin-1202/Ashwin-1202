@@ -118,23 +118,36 @@ A modern music platform with authentication, albums, playlists, favorites and a 
 
 ---
 
-### 🌿 AyurSutra
+🎬 MovieVerse — Movie Recommendation System
 
-**Panchakarma Patient Management System**
+A full-stack movie discovery and recommendation platform inspired by modern streaming services. Integrated the TMDB API to provide real-time movie data, including trending content, detailed movie information, and cast details.
 
-A healthcare management platform designed for patient management, practitioner workflows, therapy scheduling, records and treatment tracking.
+Key Features
 
-**Built with:** React • Tailwind CSS • Node.js • Express • PostgreSQL
+🎥 Real-time movie and trending content discovery
+🔎 Movie details and cast information
+🎯 Recommendation-focused browsing experience
+⚡ Dynamic data powered by the TMDB API
+📱 Responsive streaming-platform-inspired interface
+
+Tech: React Flask Tailwind CSS TMDB API
 
 ---
 
-### 🎬 Cinematic Tribute Website
+🧠 Real-Time Deepfake Detection System
 
-**Interactive Storytelling Experience**
+A multi-modal forensic framework designed for real-time deepfake detection using physiological and frequency-domain signals. The system combines automated face detection, rPPG-based analysis, frequency-domain features, and machine learning classification to identify manipulated video content.
 
-A cinematic React website inspired by *I Want to Eat Your Pancreas*, focusing on immersive visuals, animations and character storytelling.
+Key Features
 
-**Built with:** React • Vite • Tailwind CSS • JavaScript
+🎥 Real-time video analysis
+👤 Automated face detection pipeline
+❤️ rPPG-based physiological signal analysis
+📡 Frequency-domain feature extraction
+🤖 Random Forest-based classification
+📊 60–75% detection accuracy on a benchmark dataset of 100+ videos
+
+Tech: Python OpenCV Streamlit Scikit-learn
 
 ---
 
