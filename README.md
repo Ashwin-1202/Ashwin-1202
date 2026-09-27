@@ -120,23 +120,35 @@ An immersive cinematic website inspired by *I Want to Eat Your Pancreas*, featur
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AshwinV1202&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<a href="https://github.com/Ashwin-1202">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashwin-1202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinV1202&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<a href="https://github.com/Ashwin-1202">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1202&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-1202&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AshwinV1202&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Ashwin-1202/Ashwin-1202/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
