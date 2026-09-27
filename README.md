@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Ashwin V**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="55"/> Hi, I'm **Ashwin V**
 
 ### 💻 Software Developer in Progress
 
@@ -21,8 +21,7 @@
 </a>
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="55"/>
+<img src="https://github.com/user-attachments/assets/209cce93-1e68-4464-affc-4fd7e31d0fe7" width="400"/>
 
 <br/>
 
