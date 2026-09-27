@@ -118,7 +118,9 @@ A modern music platform with authentication, albums, playlists, favorites and a 
 
 ---
 
-🎬 MovieVerse — Movie Recommendation System
+### 🎬 MovieVerse 
+
+**Movie Recommendation System**
 
 A full-stack movie discovery and recommendation platform inspired by modern streaming services. Integrated the TMDB API to provide real-time movie data, including trending content, detailed movie information, and cast details.
 
@@ -130,11 +132,11 @@ Key Features
 ⚡ Dynamic data powered by the TMDB API
 📱 Responsive streaming-platform-inspired interface
 
-Tech: React Flask Tailwind CSS TMDB API
+**Built with:** React • Flask • Tailwind • CSS • TMDB API
 
 ---
 
-🧠 Real-Time Deepfake Detection System
+### 🧠 Real-Time Deepfake Detection System
 
 A multi-modal forensic framework designed for real-time deepfake detection using physiological and frequency-domain signals. The system combines automated face detection, rPPG-based analysis, frequency-domain features, and machine learning classification to identify manipulated video content.
 
@@ -147,7 +149,7 @@ Key Features
 🤖 Random Forest-based classification
 📊 60–75% detection accuracy on a benchmark dataset of 100+ videos
 
-Tech: Python OpenCV Streamlit Scikit-learn
+**Built with:** Python • OpenCV • Streamlit • Scikit-learn
 
 ---
 
