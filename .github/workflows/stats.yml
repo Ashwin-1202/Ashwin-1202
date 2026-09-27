@@ -1,4 +1,4 @@
-name: Update GitHub Analytics Ashwin
+name: Update GitHub Analytics
 
 on:
   schedule:
