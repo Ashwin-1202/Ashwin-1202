@@ -83,7 +83,7 @@ const ashwin = {
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp"/>
 </p>
 
 ### 🌐 Frontend Development
@@ -95,7 +95,7 @@ const ashwin = {
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres"/>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb"/>
 </p>
 
 ### 🔧 Tools
